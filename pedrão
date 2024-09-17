@@ -1,0 +1,6 @@
+numero_1=(float(input("digite um numero")))
+numero_2=(float(input("digite um numero")))
+numero_3=(float(input("digite um numero")))
+menor=min(numero_1,numero_2,numero_3)
+maior=max(numero_1,numero_2,numero_3)
+print=(f"{menor},{maior}")
