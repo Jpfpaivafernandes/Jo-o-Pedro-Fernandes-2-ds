@@ -1,0 +1,5 @@
+km=(float(input("digite o numero de km percorrido")))
+dias=(float(input("digite a quantidade de dias")))
+
+tota_apagar=(km * 0.15)+(dias * 60)
+print(f"total apagar{tota_apagar}")
