@@ -1,0 +1,6 @@
+print("vamos omeçar a viagem")
+distancia = input("digite a distancia")
+velocidade = input("digite a media de velocidade")
+
+tempo_de_viagem = distancia / velocidade
+print(f"o tempo da viagem vai ser se {tempo_de_viagem}")
